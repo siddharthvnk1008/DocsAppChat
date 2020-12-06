@@ -15,9 +15,10 @@ version 2: Partially Done
 version 3: Done
 1. Get the app to work offline - where message is stored locally and sent to server once internet is on  (Done)
 
-Libary used 
 
-!> Sugar for database
+#Libary used 
+
+1> Sugar for database
 2> Retrofit for api call
 3> rxJava  for async work
 4> Workmanager to work app in offline mode
